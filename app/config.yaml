@@ -1,13 +1,13 @@
 apiVersion: 3
 dataDisplay:
   textFormats:
-    text-orig-full: 
+    layout-orig-full: 
       method: layoutRich
       style:  normal
 interfaceDefaults: {}
 provenanceSpec:
   corpus: Samaritan Pentateuch - Genesis
-  version: '0.1'
+  version: '0.2'
 writing: hbo
 typeDisplay:
   verse:

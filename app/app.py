@@ -9,4 +9,4 @@ class TfApp(App):
         F = api.F
         material = F.g_cons_utf8.v(n)
         
-        return f"{material}"
+        return f"{material} "
